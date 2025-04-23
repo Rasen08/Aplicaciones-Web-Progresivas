@@ -1,0 +1,34 @@
+.contenedor-app {
+    margin-top: 64px;
+    max-width: 800px;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+
+  h1, h2 {
+    text-align: center;
+    color: #2c3e50; 
+  }
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+    .formulario input, select{
+        color: gray;
+        border: 1px solid rgb(229, 185, 193);
+        font-size: 1rem;
+        padding: 8px;
+    }
+        section table{
+            width: 100%;
+        }
+        section table thead{
+            width: 100%;
+        }
+        section table tbody{
+            width: 100%;
+        }

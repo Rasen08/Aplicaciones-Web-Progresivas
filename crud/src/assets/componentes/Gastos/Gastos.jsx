@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react"; 
+import { useState, useEffect } from "react";
+import './Gastos.css';
 
 const Gastos = () => {
     
@@ -97,7 +98,7 @@ const Gastos = () => {
             <button onClick={ realizarTransferencia }> Transferir </button>
         </section> */}
 
-        <section>
+        <section className="listado">
             <h2> Listado de Gastos </h2>
 
             <table>
