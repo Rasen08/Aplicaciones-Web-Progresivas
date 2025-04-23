@@ -1,9 +1,9 @@
 import React from 'react'
-import Tareas from './assets/Tareas/Tareas';
-import Contactos from './assets/Contactos/Contactos';
-import Banco from './assets/Banco/Banco';
-import AdministradorGastos from './assets/AdministradorGastos/AdministradorGastos';
-import Gastos from './assets/Gastos/Gastos';
+/* import Tareas from './assets/componentes/Tareas/Tareas';
+import Contactos from './assets/componentes/Contactos/Contactos';
+import Banco from './assets/componentes/Banco/Banco';
+import AdministradorGastos from './assets/componentes/ */
+import Gastos from './assets/componentes/Gastos/Gastos';
 import './App.css';
 
 

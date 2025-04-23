@@ -8,8 +8,8 @@ const Banco = () => {
     const [formulario, setFormulario] = useState({nombre: '', dni: '', saldo: ''});
     const [editarIndice, setEditarIndice] = useState(null); 
     const [origen, setOrigen] = useState('');
-    const [destino, setDestino] = useState(''); 
-    const [monto, setMonto] = useState(''); 
+    const [destino, setDestino] = useState('');
+    const [monto, setMonto] = useState('');
 
     // Funciones auxiliares: 
 
